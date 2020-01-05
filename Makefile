@@ -12,7 +12,7 @@ COMPILER_FLAGS = -w
 LINKER_FLAGS = -lGL -lGLU -lglut
 
 #OBJ_NAME specifies the name of our exectuable
-OBJ_NAME = glut
+OBJ_NAME = HappyNewYear.exe
 
 #This is the target that compiles our executable
 all : $(OBJS)
